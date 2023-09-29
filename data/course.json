@@ -1,0 +1,62 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Networks"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Telecommunications"
+    ]
+  ],
+  "legacy_uid": "7032101b-8a5d-8958-43b8-10c7a6214b70",
+  "instructors": {
+    "content": [
+      "042ee882-aea2-271b-b1e6-f030603d034a",
+      "a8144fe8-f2c3-2c36-c757-9f7d0f4fd80d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b2c2937f-360b-27a0-d800-99dc9fec7b8b",
+    "website": "6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012"
+  },
+  "course_title": "Introduction to EECS II: Digital Communication Systems",
+  "course_description": "An introduction to several fundamental ideas in electrical engineering and computer science, using digital communication systems as the vehicle. The three parts of the course\u2014bits, signals, and packets\u2014cover three corresponding layers of abstraction that form the basis of communication systems like the Internet.\n\nThe course teaches ideas that are useful in other parts of EECS: abstraction, probabilistic analysis, superposition, time and frequency-domain representations, system design principles and trade-offs, and centralized and distributed algorithms. The course emphasizes connections between theoretical concepts and practice using programming tasks and some experiments with real-world communication channels.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.02",
+  "course_image_thumbnail": {
+    "content": "3ec76b35-3644-eecb-22b2-da20ff39bd1c",
+    "website": "6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Online Textbook",
+    "Lecture Videos"
+  ],
+  "site_uid": "e4a582d0-eea4-4d44-8620-f2bd8856f65d",
+  "site_short_id": "6.02-fall-2012",
+  "title": "Course Metadata"
+}

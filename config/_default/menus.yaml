@@ -1,0 +1,38 @@
+leftnav:
+- identifier: 6888fa1e-ae58-9ffc-6c0c-4ae42d0c3e70
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: ce720f9a-7dbb-d506-7a90-cdac312f0518
+  name: Software
+  pageRef: /pages/syllabus/software
+  parent: 6888fa1e-ae58-9ffc-6c0c-4ae42d0c3e70
+  weight: 20
+- identifier: bd930985-e971-4c64-c8a9-fa7e3d9571c7
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 30
+- identifier: 43bcc3e8-ea29-e5d6-f9ca-9dfe5f636a71
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 6293cb2b-b2c9-55e5-230f-875fa43a271f
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 50
+- identifier: 67a32217-7928-0e59-09f6-f82a49f4f504
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 60
+- identifier: 50216f2a-736c-9553-2555-2defe4b0c19f
+  name: Tutorials
+  pageRef: /pages/tutorials
+  weight: 70
+- identifier: 83069da5-d3b4-531b-dd45-1bd51850dba6
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
+- identifier: e65fa757-3838-8b28-7b7b-87fbbe0b67c7
+  name: Exams
+  pageRef: /pages/exams
+  weight: 90
